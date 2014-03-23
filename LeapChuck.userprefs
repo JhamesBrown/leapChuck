@@ -1,9 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\prey_Script.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\menuManager_Script.js">
     <Files>
-      <File FileName="Assets\Scripts\prey_Script.js" Line="9" Column="2" />
-      <File FileName="Assets\Scripts\player_Script.js" Line="35" Column="34" />
+      <File FileName="Assets\Scripts\player_Script.js" Line="115" Column="40" />
+      <File FileName="Assets\Scripts\prey_Script.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\spear_Script.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameManager_Script.js" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\menuManager_Script.js" Line="22" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

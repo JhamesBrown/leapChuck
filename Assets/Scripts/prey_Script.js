@@ -1,11 +1,11 @@
 ﻿#pragma strict
-
+var gameManager : gameManager_Script;
 var walking : boolean;
 
 
 function Start () {
 	walking = true;
-	
+	gameManager = GameObject.FindGameObjectWithTag("gameManager").GetComponent(gameManager_Script);
 }
 
 function Update () {
@@ -17,4 +17,15 @@ function Update () {
 		Destroy(gameObject);
 	} 
 
+}
+
+function OnCollisionEnter2D (col : Collision2D){
+
+	if(col.gameObject.tag =="Spear"){
+	
+			gameManager.preyKilled++;
+			Destroy(col.gameObject);
+			Destroy(gameObject);
+			
+	}
 }

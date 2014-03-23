@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{7402DA49-282A-52AB-D39A-E344796CC937}") = "LeapChuck", "Assembly-UnityScript.unityproj", "{5E2B5A67-9155-4131-4E3E-BF4033B79C38}"
+Project("{25C173C9-BF26-4FF2-C201-EA3DF929F8C6}") = "leapChuck", "Assembly-UnityScript.unityproj", "{DA8B06C5-2461-8A31-F531-894B1A6C0AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E2B5A67-9155-4131-4E3E-BF4033B79C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E2B5A67-9155-4131-4E3E-BF4033B79C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E2B5A67-9155-4131-4E3E-BF4033B79C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E2B5A67-9155-4131-4E3E-BF4033B79C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8B06C5-2461-8A31-F531-894B1A6C0AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8B06C5-2461-8A31-F531-894B1A6C0AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8B06C5-2461-8A31-F531-894B1A6C0AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8B06C5-2461-8A31-F531-894B1A6C0AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-		GlobalSection(MonoDevelopProperties) = preSolution
+										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
